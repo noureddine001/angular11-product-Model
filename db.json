@@ -5,13 +5,13 @@
       "name": "Printer",
       "price": 1000,
       "quantity": 100,
-      "selected": true,
+      "selected": false,
       "available": false
     },
     {
       "id": 3,
       "name": "Smartphone",
-      "price": 1300,
+      "price": "5000",
       "quantity": 150,
       "selected": false,
       "available": true
@@ -52,7 +52,7 @@
       "name": "Computer",
       "price": "11500",
       "quantity": "10",
-      "selected": true,
+      "selected": false,
       "available": true,
       "id": 10
     },
@@ -60,7 +60,7 @@
       "name": "voiture",
       "price": "150000",
       "quantity": "2",
-      "selected": true,
+      "selected": false,
       "available": true,
       "id": 11
     },
